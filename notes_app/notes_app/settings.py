@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-d(8hdsxdttjeje668-xysmrzcm^5#b$_t8^=m0q#d1!ks@u2k=
 DEBUG = True
 # APPEND_SLASH=False
 
-ALLOWED_HOSTS = ["django-notes-env.eba-byatmnu4.ap-south-1.elasticbeanstalk.com", ]
+ALLOWED_HOSTS = ["django-notes-env.eba-byatmnu4.ap-south-1.elasticbeanstalk.com", "127.0.0.1:8000"]
 
 
 # Application definition
